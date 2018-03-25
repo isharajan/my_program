@@ -10,7 +10,7 @@ void add(){
 
 void sub(){
 	int x,y,z;
-	printf("\nenter the two values:");
+	printf("\nenter the two value s:");
 	scanf("%d%d",&x,&y);
 	z=x-y;
 	printf("%d-%d=%d",x,y,z);
