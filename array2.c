@@ -13,6 +13,7 @@ void main()
   }
   n = n+1;
   
+  //insert data at front of the array
   for(m=n; m>=pos; m--)
   {
     a[m] = a[m-1];
